@@ -1,0 +1,3 @@
+[submodule "DIY-Multiprotocol-TX-Module"]
+	path = DIY-Multiprotocol-TX-Module
+	url = https://github.com/glisandro/DIY-Multiprotocol-TX-Module.git
