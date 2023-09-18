@@ -1,3 +1,6 @@
 [submodule "DIY-Multiprotocol-TX-Module"]
 	path = DIY-Multiprotocol-TX-Module
 	url = https://github.com/glisandro/DIY-Multiprotocol-TX-Module.git
+[submodule "ppm_signal"]
+	path = ppm_signal
+	url = https://github.com/glisandro/ppm_signal.git
