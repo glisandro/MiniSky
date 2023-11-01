@@ -1,6 +1,9 @@
 # MiniSky
 Radio Control Multiprotol
 
+* Arduino 1: joystick signal to PPM signal
+* Arduino 2: Multiprotocol Module (Reads PPM and sends it to the receiver)
+
 PCB: https://oshwlab.com/gustavomartinez/tx-rc-joystick-nrf24_copy_copy_copy_copy
 
 ![PCB](https://github.com/glisandro/MiniSky/blob/main/files/pcb.jpg)
