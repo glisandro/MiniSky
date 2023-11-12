@@ -8,6 +8,9 @@ PCB: - [PCB design for NRF24L01](https://oshwlab.com/gustavomartinez/tx-rc-joyst
 
 External reference for Multiprotocol Module: https://karooza.net/multi-protocol-module-for-rc-models
 
+### TEST VIDEO!
+https://www.youtube.com/watch?v=qVZo_F6Oyf4&t=1s
+
 ![PCB](https://github.com/glisandro/MiniSky/blob/main/files/pcb.jpg)
 
 ![Radio and Receiver](https://github.com/glisandro/MiniSky/blob/main/files/radio-receiver.jpg)
@@ -16,5 +19,3 @@ External reference for Multiprotocol Module: https://karooza.net/multi-protocol-
 
 ![Radio and Plane](https://github.com/glisandro/MiniSky/blob/main/files/radio-airplane.jpg)
 
-# TEST VIDEO!
-https://www.youtube.com/watch?v=qVZo_F6Oyf4&t=1s
