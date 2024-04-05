@@ -11,6 +11,8 @@ External reference for Multiprotocol Module: https://karooza.net/multi-protocol-
 ### TEST VIDEO!
 https://www.youtube.com/watch?v=qVZo_F6Oyf4&t=1s
 
+![Airplane blue](https://github.com/glisandro/MiniSky/blob/main/files/airplane-blue.jpg)
+
 ![PCB](https://github.com/glisandro/MiniSky/blob/main/files/pcb.jpg)
 
 ![Radio and Receiver](https://github.com/glisandro/MiniSky/blob/main/files/radio-receiver.jpg)
